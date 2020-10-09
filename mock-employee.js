@@ -1,4 +1,4 @@
-[
+const employees = [
     {
         "_id": "5e2e9dd0880bdf2d751b51c8",
         "firstname": "Hattie",
@@ -28,3 +28,4 @@
         "email": "Alf_Hermann@yahoo.com"
       }
 ]
+module.exports = employees
